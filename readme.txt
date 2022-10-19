@@ -53,5 +53,5 @@ F11        : fullscreen (or Ctrl|Alt+Enter)
 <F1>,H     : this help
 it is all
 
-   Popelka Pavel, http://popelkapavel.github.io/cellscop/cellscop.htm
+   Popelka Pavel, http://popelkapavel.github.io/cellscop/index.htm
 
