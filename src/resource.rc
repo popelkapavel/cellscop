@@ -1,0 +1,29 @@
+#include <winuser.h>
+
+main_icon ICON DISCARDABLE PRELOAD cellscop.ico
+
+1 VERSIONINFO
+ FILEVERSION 0, 21,0,0 
+ PRODUCTVERSION 0, 0, 0, 0
+ FILEFLAGSMASK 0x3f
+ FILEOS 0x4
+ FILETYPE 0x1
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904b0"
+    {
+      VALUE "CompanyName", "Pavel Popelka\0"
+      VALUE "FileDescription", "CellScop - cellular automaton kaleidoscope\0"
+      VALUE "FileVersion", "0.21.0.0\0"
+//      VALUE "Full Version", "0.21.0.0\0"
+//      VALUE "InternalName", "zaloha\0"
+      VALUE "LegalCopyright", "Copyright \251 2002-2016\0"
+//      VALUE "OriginalFilename", "cellscop.exe\0"
+//      VALUE "ProductName", "CellScop\0"
+//      VALUE "ProductVersion", "0.21.0.0\0" 
+    }
+  }
+} 
+
+
